@@ -1,0 +1,1 @@
+{"status":"ok","data":{"result":"failure","errors":[{"error":["Undefined section \"bogusSection\" @ line 13, column 5.","Duplicate stage name: \"Bad1\" @ line 3, column 5.","Expected one of \"steps\", \"stages\", or \"parallel\" for stage \"Bad2\" @ line 7, column 9."]}]}}

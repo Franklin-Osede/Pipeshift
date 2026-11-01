@@ -1,0 +1,1 @@
+{"astBuilt":false,"fatal":null,"errors":[{"message":"java.lang.SecurityException: Annotation Grab cannot be used in the sandbox.","line":null,"col":null}],"topLevel":{"imports":[],"statements":[],"classes":[],"methods":[]},"elements":[],"json":null}

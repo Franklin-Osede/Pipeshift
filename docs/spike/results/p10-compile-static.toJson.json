@@ -1,0 +1,1 @@
+{"status":"ok","data":{"result":"success","json":{"pipeline":{"stages":[{"name":"A","branches":[{"name":"default","steps":[{"name":"sh","arguments":[{"key":"script","value":{"isLiteral":true,"value":"ok"}}]}]}]}],"agent":{"type":"any"}}}}}

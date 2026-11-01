@@ -1,0 +1,1 @@
+{"status":"ok","data":{"result":"failure","errors":[{"error":["Tool type \"maven\" does not have an install of \"mvn-3.9\" configured - did you mean \"null\"? @ line 4, column 15.","Tool type \"jdk\" does not have an install of \"jdk-21\" configured - did you mean \"null\"? @ line 5, column 13."]}]}}

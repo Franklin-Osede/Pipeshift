@@ -1,0 +1,5 @@
+/bin/
+.env
+*.env
+/pipeshift
+docs/spike/results/jenkins.log

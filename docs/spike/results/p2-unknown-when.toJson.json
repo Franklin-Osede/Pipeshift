@@ -1,0 +1,1 @@
+{"status":"ok","data":{"result":"failure","errors":[{"error":"Unknown conditional someVendorCondition. Valid conditionals are: allOf, anyOf, branch, buildingTag, changeRequest, changelog, changeset, environment, equals, expression, isRestartedRun, not, tag, triggeredBy @ line 5, column 20."}]}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"result":"failure","errors":[{"error":"Jenkinsfile content 'node('linux') {\n    stage('Build') {\n        sh 'make'\n    }\n}\n' did not contain the 'pipeline' step"}]}}

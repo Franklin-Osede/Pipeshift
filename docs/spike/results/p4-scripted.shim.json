@@ -1,0 +1,1 @@
+{"astBuilt":false,"fatal":null,"errors":[],"topLevel":{"imports":[{"className":"org.jenkinsci.plugins.workflow.libs.Library","line":-1,"annotations":[]}],"statements":[{"line":1,"text":"node('linux') {"}],"classes":[],"methods":[]},"elements":[],"json":null}
